@@ -9,7 +9,6 @@ import com.datastax.driver.core.Session;
 import com.github.rvesse.airline.SingleCommand;
 import com.github.rvesse.airline.annotations.Command;
 import com.github.rvesse.airline.annotations.Option;
-import java.awt.SystemTray;
 import java.io.File;
 import java.util.Collections;
 import org.slf4j.Logger;

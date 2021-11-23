@@ -19,6 +19,5 @@
   <logger name="com.datastax.oss.driver" level= "DEBUG"/>
   <logger name="com.datastax.oss.driver.api.core.metadata." level= "DEBUG"/>
   -->
-  <logger name="com.datastax.oss.driver.internal.core.metadata.NodeStateManager" level= "DEBUG"/>
-  <logger name="com.datastax.oss.driver.internal.core.metadata.DefaultTopologyMonitor" level= "DEBUG"/>
+  <logger name="com.datastax.driver.core" level= "DEBUG"/>
 </configuration>
